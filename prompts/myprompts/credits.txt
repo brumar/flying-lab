@@ -1,0 +1,1 @@
+idea stolen from https://community.openai.com/t/how-to-stop-dall-e-generating-text-into-images/540677/3 for dalle no text, but that's not that yet
