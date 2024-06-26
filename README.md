@@ -1,59 +1,83 @@
-# INTRODUCTION
+# 🧠 AI-Powered Learning Techniques Repository
 
-## tl;dr
+## 🚀 TL;DR
 
-Most probably, **my prompts collection and experimentations** is the most interesting part of this repository. 
+Most probably, **my prompts collection and experimentations** is the most interesting part of this repository.
+Check it out here: [prompts/myprompts/](prompts/myprompts/).
 
-So just go there: [prompts/myprompts/](prompts/myprompts/)
+⚠️ There is no guide yet nor custom GPT, so take a prompt that piques your interest and copy it in your favorite LLM chat interface.
 
-## But what am I looking at?
+## 📚 Introduction
 
-This is me sharing stuff about llms for studying, probably other things too. This is an experimental repository. 
+This repository is dedicated to sharing and experimenting with Large Language Models (LLMs) for efficient learning techniques. The goal is to help learners harness the power of generative AI to enhance their learning strategies.
 
-**My goal is to help learners who wants to tap into the power of generative AI to leverage (or learn?) efficient learning techniques**
+## 🔍 What Is This Project?
 
-My angle is really the learner eye, not the teaching eye. The learning material may be a bit raw, the targeted outcomes and the learning strategy are determined and implemented by the learner. 
+This repository is an experimental platform focused on leveraging Large Language Models (LLMs) for enhanced learning experiences.
+Key aspects include: 
 
-From a product perspective, I have tons of ideas, but in the spirit of the "user first" perspective, I'll let experimentations decide for me the best course of action.
+* 📊 Resources about LLMs for studying
+* 💡 Prompts and experiments for leveraging AI in learning
+* 🤔 Ideas and thoughts on the intersection of AI and learning techniques
 
-I need to not overthink it to avoid loosing momentum, and rather cultivate its lively mess and a bit of crazyness.
+My perspective is that of a learner, not a teacher. The learning material may be raw, with targeted outcomes and learning strategies determined by the learner.
 
-# HOW THIS REPOSITORY IS ORGANIZED
+### 🧭 Project Philosophy
 
-For the moment, it's highly focused on the usage of LLMS for learners.
+* 👥 User-first approach: Let experiments guide the project's direction
+* 🎨 Embrace the "lively mess" and creativity
+* 🎯 Focus on practical applications for learners
 
-- [curation](curation/): not much for the moment. I intend to share links, sometimes with comments, with a strong focus on the subject of prompts for learners.
-- [experimentations](experimentations/): almost nothing yet. I intend to publish most of my trial and errors using a pdf format. It's worth noting that some parts are vocal conversations with chatgpt4o.
-- [prompts/myprompts](prompts/myprompts/): The prompts I am working on
-- [prompts/otherprompts](prompts/otherprompts/): not much yet. The prompt from external sources
-- [ideas-roadmap](ideas-roadmap/): what it's currently in my head for the future
-- [src](src/): for code and stuff
-- [thoughts-articles](thoughts-articles/): Probably just rambling.
+## 📁 Repository Organization
 
-# CONTACT
+| Folder | Description | Status |
+|--------|-------------|--------|
+| [curation](curation/) | Links and comments focused on prompts for learners | 🌱 Limited content for now |
+| [experimentations](experimentations/) | Trial and error results, mostly in PDF format. Some parts include vocal conversations with ChatGPT-4 | 🔬 In progress |
+| [prompts/myprompts](prompts/myprompts/) | The prompts I am actively working on | 🔥 Active development |
+| [prompts/otherprompts](prompts/otherprompts/) | Prompts from external sources | 🌱 Limited content |
+| [ideas-roadmap](ideas-roadmap/) | Future plans and ideas for the project | 🔄 Ongoing updates |
+| [src](src/) | Code and related materials | 🚧 Nothing yet |
+| [thoughts-articles](thoughts-articles/) | Personal reflections and potential articles | 📝 Occasional updates |
 
-Shout me a mail at martin.bruno.mail@gmail.com
-Subjects I'd love:
+## 🤝 Help Shape This Project
 
-- *"Hey! look at this awesome/terrible interaction I had with chatGPT / claude."*. Hint: use a web browser plugin to export as pdf or send me the json export directly.
-- *"I'd love that you go into <<this>> direction"*
-- *"I used a modified version of a prompt for the better"*
-- *"Look at that! That might interest you."*
-- *"I can find you money if you build cool stuff."*
-- *"I have a spot for you in Paris so that you can help and iterate with real students."*
+I'm actively seeking to understand user needs and iterate quickly. Your input is crucial in this lean development process:
 
-I am french, so french people can do that too but in french.
+1. **⭐ Star the Repository**: If you find this project promising, star it on GitHub. This helps gauge interest and reach more potential users.
 
-# Who am I ?
+2. **🔧 Share Your Pain Points**: 
+   - What learning challenges do you face that AI might help solve?
+   - Which aspects of current AI-assisted learning tools frustrate you?
 
-I have a strong passion for learning techniques since they basically saved my ass 15 years ago.
+3. **🧪 Test and Provide Feedback**:
+   - Try out the prompts and share your results.
+   - What worked well? What didn't? Your real-world experiences are invaluable.
 
-I did an engineering school followed by a Phd in cognitive sciences and worked for edtech companies for 8 years as a tech guy.
+4. **💡 Suggest Features or Use Cases**:
+   - How would you like to use AI in your learning process?
+   - What features would make this project more useful to you?
 
-In the mean time I attended some memory competitions, co-organized a meetup about learning how to learn and engaged with the anki community, and launched some funny side projects related to this field.
+5. **🧠 Contribute Insights**:
+   - Share relevant articles, tools, or techniques you've found helpful.
+   - Offer perspectives from your own learning experiences with AI.
 
-Here are the techniques I love: concept mapping, mind mapping, spaced repetition, Free Recall, Method of Loci. Hopefully others in the future :)
+6. **🤖 Collaborate on Experiments**:
+   - Interested in running learning experiments with AI? Let's talk!
+   - Know a place in Paris where we can test with real students? Reach out!
 
-I am convinced that a mastery of these techniques and a knowledge on their strength and weaknesses can turn a learner in a stronger and happier learner.
+📧 Contact me at martin.bruno.mail@gmail.com with any of the above or other ideas. 
+🇫🇷 French speakers are welcome to reach out in French.
 
-My vision is that generative AI can provide strong support for learning using these techniques. More on what's in my mind in the ideas and thoughts folder.
+By understanding your needs, we can iteratively build something truly valuable for AI-enhanced learning!
+
+## 👨‍🔬 Who am I?
+
+I'm a passionate advocate for effective learning techniques, with a background that includes:
+
+- 🎓 Engineering degree and Ph.D. in cognitive sciences, followed by 8 years in EdTech as a tech professional
+- 🏆 Active community engagement through memory competitions, open source toolings, and co-organizing a "learning how to learn" meetup in Paris
+
+I have some love for learning techniques such as concept mapping, mind mapping, spaced repetition, free recall, and the Method of Loci. I believe that mastering these techniques can transform one into a stronger, happier learner.
+
+🔮 My vision is to leverage generative AI to provide robust support for these learning techniques, enhancing the learning experience for students and lifelong learners alike.
