@@ -3,7 +3,7 @@
 ## 🚀 TL;DR
 
 Most probably, **my prompts collection and experimentations** is the most interesting part of this repository.
-Check it out here: [prompts/myprompts/](prompts/myprompts/).
+Check it out here: [prompts/myprompts/](prompts/myprompts/). Or maybe have a look on [this experimental GPT](https://chatgpt.com/g/g-aYNCLC9DO-lab-leaked-mentor).
 
 ⚠️ There is no guide yet nor custom GPT, so take a prompt that piques your interest and copy it in your favorite LLM chat interface.
 
