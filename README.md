@@ -3,9 +3,9 @@
 ## 🚀 TL;DR
 
 Most probably, **my prompts collection and experimentations** is the most interesting part of this repository.
-Check it out here: [prompts/myprompts/](prompts/myprompts/). Or maybe have a look on [this experimental GPT](https://chatgpt.com/g/g-aYNCLC9DO-lab-leaked-mentor).
+The most recent and interesting one is this conversation: https://github.com/brumar/flying-lab/tree/main/experimentations/Bruno/favorites/2024-07-16-fulltour-momtest-chap1
 
-⚠️ There is no guide yet nor custom GPT, so take a prompt that piques your interest and copy it in your favorite LLM chat interface.
+If you want to test it yourself, go to [this experimental GPT](https://chatgpt.com/g/g-aYNCLC9DO-lab-leaked-mentor).
 
 ## 📚 Introduction
 
@@ -44,7 +44,7 @@ My perspective is that of a learner, not a teacher. The learning material may be
 
 I'm actively seeking to understand user needs and iterate quickly. Your input is crucial in this lean development process:
 
-1. **⭐ Star the Repository**: If you find this project promising, star it on GitHub. This helps gauge interest and reach more potential users.
+1. **⭐ Star the Repository**: If you find this project promising, star it on GitHub.
 
 2. **🔧 Share Your Pain Points**: 
    - What learning challenges do you face that AI might help solve?
@@ -76,6 +76,6 @@ By understanding your needs, we can iteratively build something truly valuable f
 I'm a passionate advocate for effective learning techniques, with a background that includes:
 
 - 🎓 Engineering degree and Ph.D. in cognitive sciences, followed by 8 years in EdTech as a tech professional
-- 🏆 Active community engagement through memory competitions, open source toolings, and co-organizing a "learning how to learn" meetup in Paris
+- 🏆 Active community engagement through memory competitions, open source toolings, and I co-organized a "learning how to learn" meetup in Paris
 
 🔮 My vision is that new technologies can now provide a robust support for a more joyful and efficient learn-at-home experience for students and lifelong learners alike.
