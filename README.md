@@ -34,7 +34,7 @@ My perspective is that of a learner, not a teacher. The learning material may be
 |--------|-------------|--------|
 | [curation](curation/) | Links and comments focused on prompts for learners | 🌱 Limited content for now |
 | [experimentations](experimentations/) | Trial and error results, mostly in PDF format. Some parts include vocal conversations with ChatGPT-4 | 🔬 In progress |
-| [prompts/myprompts](prompts/myprompts/) | The prompts I am actively working on | 🔥 Active development |
+| [prompts/lab-leaked-mentor-standalone-prompts](prompts/lab-leaked-mentor-standalone-prompts/) | The prompts I am actively working on | 🔥 Active development |
 | [prompts/otherprompts](prompts/otherprompts/) | Prompts from external sources | 🌱 Limited content |
 | [ideas-roadmap](ideas-roadmap/) | Future plans and ideas for the project | 🔄 Ongoing updates |
 | [src](src/) | Code and related materials | 🚧 Nothing yet |
