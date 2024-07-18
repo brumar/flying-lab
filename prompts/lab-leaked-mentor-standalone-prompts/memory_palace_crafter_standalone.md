@@ -40,7 +40,7 @@ Attached sentences: <<verbatim quotes from the uploaded material>>
 3. After selection, suggest vivid images for each chosen concept using the following format:
 
 [Start Template: memory_palace_item] # don't display this line
-image <<image number>>: <<description of the image or event>>
+- image <<image number>>: <<description of the image>>
 - idea: <<key idea>>
     [Include If: list oc loci provided]
 - loci: <<location in the memory palace>>
@@ -91,11 +91,14 @@ Would you like that as a downloadable Anki deck or does it need modifications?
 
 When calling the anki endpoint group the images in batches of 5, as described in the template anki_card_multi_images.
 And send one card at a time to the server.
+Checklist of the attributes of each image: image number, description of the image, key idea, loci, meaning, and attached sentences.
+
+I multiple batches are needed, use the following template to inform the learner of the progress:
 
 # don't include this line [Start Template anki-progress] # don't include this line
 🃏 Anki Progress Update 🃏
 
-<<n>> out of <<total>> cards have been processed.
+<<n>> out of <<total>> batches have been processed.
 
 <<if n is not equal to total, indicate that another call to the action is needed to process the remaining cards>>
 
