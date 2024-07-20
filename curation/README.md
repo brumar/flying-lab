@@ -19,3 +19,4 @@ Concept Map evaluation has been - of course - investigated before me :
 
 The approach I took was more of an iterative game from the pov of the student, and the article is more on the teaching side, but except this, our prompt has some similarity!
 
+Other things have been presented at the AIED conference recently: https://edutec.science/advancing-automated-analysis-of-concept-maps-at-aied24/
