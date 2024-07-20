@@ -3,10 +3,11 @@
 A good tour on the available capabilities.
 
 I had some failures, but that's always expected.
-I had to insist for tabulation mindmaps.
-The roleplay took place as an audio conversation, that was fun minor some quirks, I uploaded the content.
+I had to insist for tabulation mindmaps (It happens often sadly, but I am on the verge of cracking this egg)
 
-The conversation is uploaded as pdf at [conversation.pdf](./conversation.pdf), as well as all the artefacts produced during this tour.
+The conversation is uploaded as pdf at [conversation.pdf](./conversation.pdf), as well as all other artefacts produced during this tour.
+
+Don't miss [roleplay-compressed.mp4](./roleplay-compressed.mp4) where I used my phone to try to have a customer conversation about a ... gardening app ?
 
 Mermaid links generated:
 
