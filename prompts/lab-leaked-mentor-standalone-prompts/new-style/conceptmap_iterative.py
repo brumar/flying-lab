@@ -40,9 +40,9 @@ What would you like to do next? 🤔
             if request_analyser.match(intention="start concept map", hotcode="STA", sensibility_threshold="medium", request=request):
                 display(self.introduction_message)
                 initial_concepts = generate(content="uploaded_document",
-                                            prompt=f"Extract two key concepts from the material in {self.user_language}.")
+                                            prompt=f"Extract two key concepts from the material n {self.user_language}.")
                 display(f"Let's start by positioning these two concepts on the concept map: 🎯\n{initial_concepts}\n"
-                        "Connect them with a labeled link. You can use a tool like draw.io or excalidraw.io, "
+                        "Connect them with a labeled link. You can use a tool like draw.io or excalidraw.com, "
                         "or simply describe the connection in text. 🖊️")
                 self.concept_map = get_user_input("Please provide your initial concept map:")
 

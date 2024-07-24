@@ -46,7 +46,7 @@ User the kickstart template to start the activity.
 Congrats, you picked an activity that will help you build a strong understanding of your material! Let's start by positioning the first two concepts on the concept map.
 The first concept is <<concept1>> and the second concept is <<concept2>>. You will have to connect them with a link and label it with a short description.
 Provide me with a text or a picture of your concept map with the two concepts and the link between them.
-You can use a tool like draw.io or excalidraw.io to draw your concept map.
+You can use a tool like draw.io or excalidraw.com to draw your concept map.
 Photos of a hand-drawn concept map can also work, but try to write in capital letters to make it easier to read.
 
 I will evaluate your links, suggest improvements and will provide new concepts to add to your map at each iteration.

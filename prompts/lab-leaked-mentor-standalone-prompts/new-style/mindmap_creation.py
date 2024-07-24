@@ -75,8 +75,7 @@ Please select a CODE or describe what you'd like to do next.
                     display(mindmap)
                     display(self.followup_message)
                     request = get_user_input()
-                    if isinstance(request, int):
-                        display("you have selected: " + request_analyser(request, "selected option"))
+                    display("you have selected: " + request_analyser(request, "selected option"))
                     self.process_request(request)
 
             elif request_analyser.match(intention="expand", hotcode="EXP", sensibility_threshold="medium", request=request):
@@ -87,8 +86,7 @@ Please select a CODE or describe what you'd like to do next.
                         mindmap = generate(content=self.mindmap, prompt="Expand the mindmap one level deeper.")
                     display(self.followup_message)
                     request = get_user_input()
-                    if isinstance(request, int):
-                        display("you have selected: " + request_analyser(request, "selected option"))
+                    display("you have selected: " + request_analyser(request, "selected option"))
                     self.process_request(request)
 
             elif request_analyser.match(intention="make changes", hotcode="CHG", sensibility_threshold="medium", request=request):
@@ -98,13 +96,11 @@ Please select a CODE or describe what you'd like to do next.
                     display(self.followup_message)
                     display(self.followup_message)
                     request = get_user_input()
-                    if isinstance(request, int):
-                        display("you have selected: " + request_analyser(request, "selected option"))
+                    display("you have selected: " + request_analyser(request, "selected option"))
                     self.process_request(request)
 
             elif request_analyser.match(intention="attach quote", hotcode="QUO", sensibility_threshold="medium", request=request):
-                    mindmap = generate(content=self.mindmap, prompt=""
-                                                                  "let's keep the indented text, I would like to get the mindmap sourced. "
+                    mindmap = generate(content=self.mindmap, prompt="Takes the mindmap and attaches a quote from the document to each leaf node."
                                                                   "Meaning that I want all leaves of the mindmap attached to a new node that is a verbatim quote from the document."
                                                                   "Don't attach a quote if the leaf is already a verbatim quote on a different node."
                                                                   "Don't include page numbers."
@@ -113,8 +109,7 @@ Please select a CODE or describe what you'd like to do next.
                     display(mindmap)
                     display(self.followup_message)
                     request = get_user_input()
-                    if isinstance(request, int):
-                        display("you have selected: " + request_analyser(request, "selected option"))
+                    display("you have selected: " + request_analyser(request, "selected option"))
                     self.process_request(request)
             else:
                     result = generate(prompt=request, content=global_state)
